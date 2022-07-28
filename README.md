@@ -5,9 +5,11 @@
   ```
 
 - What’s the difference between list and tuple?
+
   ```
   Both list and tuple are used to store the collection of objects. The main difference between the list and tuple is “the list is mutable object whereas tuple is an immutable object”.
   ```
+
 - Explain some methods of the list.
 
   ```
@@ -120,9 +122,11 @@
   ```
 
 - Which data types allow slicing?
+
   ```
   We can use slicing on list, tuple, and str data types.
   ```
+
 - What are list and dictionary comprehensions?
 
   ```
@@ -280,4 +284,16 @@
   > > > 3
   > > > next(\_10)
   > > > 4
+  ```
+
+- What are Python Decorators?
+
+  ```
+  Decorator is the most useful tool in Python as it allows programmers to alter the changes in the behavior of class or function.
+
+  An example for Python Decorator is:
+
+  @gfg_decorator
+  def hi_decorator():
+  print("Gfg")
   ```
